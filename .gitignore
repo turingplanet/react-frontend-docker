@@ -54,5 +54,3 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 
-# pnpm specific
-pnpm-lock.yaml
